@@ -22,6 +22,6 @@
 		"category" : "Entertainment",
 		"date" : "2017-06-01",
 		"likes" : 24,
-		"comments" : [{"username" : "Jane", "content" : "Good One"}, {"username" : "Bob", "content" : "Loved It!"}]
+		"comments" : [{"user" : "Jane", "content" : "Good One"}, {"user" : "Bob", "content" : "Loved It!"}]
   		}]
 }
